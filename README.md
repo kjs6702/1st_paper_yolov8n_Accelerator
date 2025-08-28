@@ -1,5 +1,3 @@
-# 1st_paper_yolov8n_Accelerator
-
 ## Edge Computer(Raspberry Pi5) 환경에서 YOLOv8 모델에 대한 AI 가속기 성능 비교에 관한 연구
 
 ### 개요 (Overview)
