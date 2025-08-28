@@ -90,8 +90,8 @@ YOLOv8n 기반의 모델을 사용하여 두 엣지 디바이스에서의 처리
 
 ### Author
 
-김지섭 (Kim JiSeob)  
-GitHub: [https://github.com/kjs6702](https://github.com/kjs6702)
-
 강인경 (Kang InGyeong)  
 GitHub: [https://github.com/ingg03](https://github.com/ingg03)
+
+박시형 (Park SiHyeong)
+Github: [https://github.com/SHPark620](https://github.com/SHPark620)
